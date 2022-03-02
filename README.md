@@ -1,5 +1,7 @@
 # Braden's Little Helper
 -------
+It is recommended that you use replit, as that was what I built the bot in
+
 **Command template**
 
 The name of the command file has to contain your command name and the extension ".js"
