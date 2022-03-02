@@ -1,0 +1,1 @@
+{"DiscordServerId":"","token":"","prefix":">","twitch_clientID":"","twitch_secret":"","cron":"*/10 * * * *","channelID":"","roleID":"ROLE_ID(NOT REQUIRED)","channels":[{"ChannelName":"heyitsbraden_","DiscordServer":"DISCORD_SERVER_INVITE_URL(NOT REQUIRED)","twitch_stream_id":"","discord_message_id":""}],"authToken":""}
